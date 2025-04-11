@@ -1,0 +1,26 @@
+[
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/opq32r/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "30 minutes",
+    "test_type": "Personality"
+  },
+  {
+    "name": "Verify G+",
+    "url": "https://www.shl.com/solutions/products/verify-g-plus/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "45 minutes",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Verify Interactive",
+    "url": "https://www.shl.com/solutions/products/verify-interactive/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Technical"
+  }
+]

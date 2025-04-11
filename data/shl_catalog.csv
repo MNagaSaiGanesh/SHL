@@ -1,0 +1,4 @@
+name,url,remote_testing,adaptive_irt,duration,test_type
+OPQ32r,https://www.shl.com/solutions/products/opq32r/,Yes,Yes,30 minutes,Personality
+Verify G+,https://www.shl.com/solutions/products/verify-g-plus/,Yes,Yes,45 minutes,Cognitive
+Verify Interactive,https://www.shl.com/solutions/products/verify-interactive/,Yes,Yes,60 minutes,Technical
